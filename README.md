@@ -17,3 +17,6 @@ The websites to get the data:
 In `turnover_with_wins.xlsx` not sure how to run a linear regression to compare turnovers with wins because turnovers get to a negative number.
 Thinking that you can do some sort of proportion from the smallest turnover to the largest turnover.
 
+By setting the number of turnovers into a normalization function "Normalizing Numerical Values in Excel" to get a proportion between the range of 0 and 100 then it is easier to plot the regression line.  For 2020 and 2019 Seasons the regression r^2 is 1.  
+
+
