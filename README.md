@@ -20,3 +20,5 @@ Thinking that you can do some sort of proportion from the smallest turnover to t
 By setting the number of turnovers into a normalization function "Normalizing Numerical Values in Excel" to get a proportion between the range of 0 and 100 then it is easier to plot the regression line.  For 2020 and 2019 Seasons the regression r^2 is 1.  
 
 
+Note to self: On my icloud, `online_course/d3_free_codecamp/4.2 scatterplot` is where I can find a visualization of ADP (average draft position) + Fantasy Points.
+
